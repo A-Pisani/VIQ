@@ -1,0 +1,60 @@
+html, body {width: 98%;height: 100%;margin: auto;padding: 0;}
+#map {position:absolute;top:0;bottom:0;right:0;left:0;}
+.headerr{
+
+}
+#map_c74431a3960743eb953574baa24b9d62 {
+    float: left;
+    width: 45.0%;
+    border: 2px solid black;
+    height: 75.0%;
+    left: 0.0%;
+    top: 0.0%;
+    box-sizing: border-box;
+}
+
+.folium-map{
+
+    float:left;
+    width: 33%;
+    height: 40%;
+    border: 1px solid black;
+    margin: 0.1%;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+.block-up{
+    float:left;
+    width: 33%;
+    height: 10%;
+    border: 1px ;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+h1,h2{
+    font-family: "Times New Roman";
+}
+.block-up2{
+    float:left;
+    width: 50%;
+    height: 10%;
+    border: 1px ;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+.line {
+    border-top: 1px solid grey;
+    flex-grow: 1;
+    margin: 0 10px;
+}
+.legend{
+    position: relative;
+}
+
+footer{
+    bottom: 0%;
+    left: 0%;
+}
